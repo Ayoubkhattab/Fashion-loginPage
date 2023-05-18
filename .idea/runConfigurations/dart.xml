@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false">
+    <option name="workingDirectory" value="C:/tools/dart-sdk" />
+    <method v="2" />
+  </configuration>
+</component>
